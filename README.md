@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @simoabid
+- 👀 I’m interested in web development and its technologies
+- 🌱 I’m currently learning web technologies such as JavaScript, React, php and css.
+- 📫 How to reach me : https://seemoo.netlify.app/
+- 😄 Pronouns: SeeMoo
+- ⚡ Fact: Junior Web developer and Software developer
