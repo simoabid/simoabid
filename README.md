@@ -47,7 +47,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simoabid&show_icons=true&locale=en" alt="simoabid" /></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/simoabid/simoabid/output/snake.svg" alt="Snake animation" /></p>
+
 
 ###
 <p align="center">
