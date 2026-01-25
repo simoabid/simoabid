@@ -5,9 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/simoabid">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+👋;Full-Stack+Developer+%7C+MERN+Stack;Building+Modern+Web+Applications;Passionate+about+Clean+Code+%26+UI%2FUX;Always+Learning+New+Technologies!+🚀" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+Stack;Building+Modern+Web+Applications;Passionate+about+Clean+Code+%26+UI%2FUX;Always+Learning+New+Technologies!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <!-- Animated GIF Banner -->
