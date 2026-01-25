@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on [CINEFLIX](https://cineflixx.vercel.app/)
 
-- 🌱 I’m currently learning **React, TypeScript, Tailwindcss & MERN Stack**
+- 🌱 I’m currently learning **TypeScript, Tailwindcss, MERN Stack**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://seemoo.netlify.app/)
 
