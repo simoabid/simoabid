@@ -196,7 +196,7 @@
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simoabid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
+ <!-- <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simoabid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" /> -->
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=simoabid&theme=tokyonight" alt="Stats" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=simoabid&theme=tokyonight&utcOffset=1" alt="Productive Time" />
 </p>
@@ -255,8 +255,10 @@
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/simoabid/Cineflix">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=simoabid&repo=cineflix-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=F97316" alt="CINEFLIX"/>
+  
+  <a href="https://github.com/simoabid/cineflix-app">
+    <img width="150" height="150" alt="cineflix-logo" src="https://github.com/user-attachments/assets/05bca5da-807f-4096-9c29-89b63f61875c" />
+
   </a>
 </p>
 
