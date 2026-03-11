@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Amine%20Abid&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20IT%20Student%20%7C%20Morocco%20🇲🇦&descAlignY=52&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Amine%20Abid&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20building%20web%20apps%2C%20tools%2C%20and%20open-source%20projects%20%7C%20Morocco%20🇲🇦&descAlignY=52&descSize=18"/>
 </div>
 
 <!-- Typing SVG -->
@@ -283,7 +283,7 @@
 <h2 align="center">☕ Support My Work</h2>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/seemooabid">
+  <a href="https://www.buymeacoffee.com/seemoo">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
 </p>
