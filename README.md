@@ -33,7 +33,7 @@
 
 - 🔭 I'm currently working on **[CINEFLIX](https://cineflixx.vercel.app/)** - A Modern Streaming Platform
 - 🌱 I'm currently learning **TypeScript, Tailwindcss, MERN Stack**
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://seemoo.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.abidev.dev/)**
 - 📝 I'm regularly active on **[Instagram](https://www.instagram.com/simoabiid)**
 - 💬 Ask me about **Anything related to IT and Tech**
 - 📫 How to reach me: **seemooabid@gmail.com**
@@ -240,7 +240,7 @@
   <a href="mailto:seemooabid@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://seemoo.netlify.app/" target="_blank">
+  <a href="https://www.abidev.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
