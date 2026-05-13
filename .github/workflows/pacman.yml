@@ -13,18 +13,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
 
       - name: Generate Pacman SVG
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: simoabid
 
-      - name: Push generated files
+      - name: Commit and push changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
 
           git add .
-          git commit -m "Generate contribution graph" || exit 0
+
+          git diff --staged --quiet || git commit -m "Update pacman graph"
+
+          git pull --rebase origin main
+
           git push
