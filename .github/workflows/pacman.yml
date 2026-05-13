@@ -1,31 +1,23 @@
-name: Generate pacman animation
+name: regenerate pacman
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
   workflow_dispatch:
 
-  push:
-    branches:
-    - main
-
 jobs:
-  generate:
+  build:
+    runs-on: ubuntu-latest
+
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+      - uses: actions/checkout@v4
+
+      - uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: simoabid
 
-
-      - name: push pacman-contribution-graph.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
