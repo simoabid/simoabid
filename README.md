@@ -208,7 +208,7 @@
 
 ---
 
-<!-- Snake Contribution Graph -->
+<!-- Snake Contribution Graph 
 <h2 align="center">🐍 Contribution Graph</h2>
 
 <p align="center">
@@ -218,7 +218,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/simoabid/simoabid/output/pacman-contribution-graph.svg">
 </picture>
 </p>
-
+-->
 ---
 
 <!-- Connect Section -->
