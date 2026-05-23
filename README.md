@@ -219,7 +219,7 @@
 </picture>
 </p>
 -->
----
+
 
 <!-- Connect Section -->
 <h2 align="center">🤝 Connect with Me</h2>
@@ -262,7 +262,7 @@
 <p align="center">
   
   <a href="https://github.com/simoabid/cineflix-app">
-    <img width="150" height="150" alt="cineflix-logo" src="https://github.com/user-attachments/assets/05bca5da-807f-4096-9c29-89b63f61875c" />
+    <img width="350" height="140" alt="cineflix-logo" src="https://github.com/user-attachments/assets/05bca5da-807f-4096-9c29-89b63f61875c" />
 
   </a>
 </p>
