@@ -8,11 +8,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+Stack;Building+Modern+Web+Applications;Passionate+about+Clean+Code+%26+UI%2FUX;Always+Learning+New+Technologies!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<!-- Animated GIF Banner -->
+<!-- Animated GIF Banner 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGtoMmR5YWR3azZnZzA0Y3NiZGl6NmJzZG4yY2t5M2l4dTRhYTh3ZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif"  />
 </div>
-
+-->
 <!-- Profile Views & Social Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=simoabid&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
